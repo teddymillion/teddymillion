@@ -1,33 +1,34 @@
 ![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/79731568097599.5b50bca477735.jpg)
 
-
 <h1 align="center">Hi 👋, I'm Teddy</h1>
-<h3 align="center">A passionate frontend and Web developer from Ethiopia</h3>
+<h3 align="center">A passionate Mobile Appliction and Web developer from Ethiopia.</h3>
 <img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=72teddy&label=Profile%20views&color=0e75b6&style=flat" alt="72teddy" /> </p>
 
-<p align="left"> <a href="https://twitter.com/teddy" target="blank"><img src="https://img.shields.io/twitter/follow/teddy?logo=twitter&style=for-the-badge" alt="teddy" /></a> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=teddymillion&label=Profile%20views&color=0e75b6&style=flat" alt="teddymillion" /> </p>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=teddymillion" alt="teddymillion" /></a> </p>
 
-- 🔭 I’m currently working on **Customer Feedback System For Ministry of Innovation and Technology**
+<p align="left"> <a href="https://twitter.com/teddym72" target="blank"><img src="https://img.shields.io/twitter/follow/teddym72?logo=twitter&style=for-the-badge" alt="teddym72" /></a> </p>
+
+- 🔭 I’m currently working on [Customer Feedback System For Ministry of Innovation and Technology](teddys-portfolio.onrender.com)
 
 - 🌱 I’m currently learning **Mern stack with React, node, Express and MongoDb**
+
+- 👨‍💻 All of my projects are available at [teddys-portfolio.onrender.com](teddys-portfolio.onrender.com)
 
 - 💬 Ask me about **Anything about Tech**
 
 - 📫 How to reach me **tedrosmilion19@gmail.com**
 
-- 📄 Know about my experiences [teddys-portfolio.onrender.com](teddys-portfolio.onrender.com)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/teddy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="teddy" height="30" width="40" /></a>
+<a href="https://twitter.com/teddym72" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="teddym72" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/tewodros million" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tewodros million" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/teddy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="teddy" height="30" width="40" /></a>
 <a href="https://fb.com/teddy million" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="teddy million" height="30" width="40" /></a>
 <a href="https://instagram.com/teddy.m72" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="teddy.m72" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/teddy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="teddy" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/@teddy-eh7be" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@teddy-eh7be" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
