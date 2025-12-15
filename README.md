@@ -1,7 +1,7 @@
 ![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/79731568097599.5b50bca477735.jpg)
 
 <h1 align="center">Hi 👋, I'm Teddy</h1>
-<h3 align="center">Junior Software Engineer at Alta Computec.</h3>
+<h3 align="center">Junior Software Engineer at Alta Computec PLC.</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=teddymillion&label=Profile%20views&color=0e75b6&style=flat" alt="teddymillion" /> </p>
 
 <img align="center" alt="Coding" width="300"  src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
@@ -13,9 +13,9 @@
 
 <p align="left"> <a href="https://twitter.com/teddym72" target="blank"><img src="https://img.shields.io/twitter/follow/teddym72?logo=twitter&style=for-the-badge" alt="teddym72" /></a> </p>
 
-- I’m currently working at Alta Computec, focusing on improving my skills as a Junior Software Engineer.(teddys-portfolio.onrender.com)
+- I’m currently working at Alta Computec PLC, focusing on improving my skills as a Junior Software Engineer.(teddys-portfolio.onrender.com)
 
-- 🌱 I’m currently learning **Mern stack with React, node, Express and MongoDb**
+- 🌱 I’m currently learning Mern stack with React, node, Express and MongoDb
 
 - 👨‍💻 All of my projects are available at [teddys-portfolio.onrender.com](teddys-portfolio.onrender.com)
 
