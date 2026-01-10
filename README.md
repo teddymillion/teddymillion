@@ -17,7 +17,7 @@
 
 - 🌱 I’m currently learning Mern stack with React, node, Express and MongoDb
 
-- 👨‍💻 All of my projects are available at [teddys-portfolio.onrender.com](teddys-portfolio.onrender.com)
+- 👨‍💻 All of my projects are available at [teddys-portfolio.onrender.com](https://teddys-portfolio.onrender.com)
 
 - 💬 Ask me about **Anything about Tech**
 
