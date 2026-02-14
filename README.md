@@ -16,10 +16,14 @@
 ---
 
 ### About Me
-- 🌱 Currently learning **MERN Stack** (React, Node.js, Express, MongoDB)  
-- 👨‍💻 All projects available at [teddys-portfolio.onrender.com](https://teddys-portfolio.onrender.com)  
-- 💬 Ask me about **anything tech-related**  
-- 📫 Reach me at **tedrosmilion19@gmail.com**
+
+- 🎓 BSc Software Engineering Graduate 
+- 👨‍💻 Software Engineer focused on AI Systems, MERN Stack and Odoo ERP Development
+- 🚀 Passionate about building secure, scalable and real-world software solutions
+- 🧠 Strong interest in intelligent systems, system design and Frontend architecture
+- 🌍 Portfolio: [teddys-portfolio.onrender.com](https://teddys-portfolio.onrender.com)
+- 📫 Contact: tedrosmilion19@gmail.com
+
 
 ---
 
