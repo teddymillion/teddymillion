@@ -1,76 +1,297 @@
-<a href="https://teddys-portfolio.onrender.com" target="_blank">
-  <img src="https://github.com/user-attachments/assets/cbec7cf1-78fb-4b48-9e18-42f814501f9b" alt="Portfolio Screenshot" style="width:100%; max-width:1200px; border-radius:10px;" />
-</a>
+<!-- ============================================================
+     ANIMATED INIT BANNER — typing effect on page load
+     ============================================================ -->
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=13&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=false&width=700&height=50&lines=Initializing+Tewodros+Million+%2F%2F+Software+Engineer+%F0%9F%9A%80" alt="Init banner" />
+</div>
 
-<h3 align="center">Software Engineer at ALTA Computec PLC</h3>
+<!-- ============================================================
+     HERO WAVE BANNER — gradient header with name + subtitle
+     ============================================================ -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,3&height=180&section=header&text=Tewodros%20Million&fontSize=46&fontColor=ffffff&fontAlignY=42&desc=Software%20Engineer%20%E2%80%A2%20AI%20Systems%20%E2%80%A2%20Full-Stack%20%E2%80%A2%20ERP&descSize=15&descAlignY=64&animation=fadeIn" />
+</div>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=teddymillion&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
-</p>
+<!-- ============================================================
+     TAGLINE + IDENTITY CYCLING — live typing animation
+     ============================================================ -->
+<div align="center">
 
-<p align="center">
-  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="Coding GIF" width="300" />
-</p>
+<br/>
 
----
+> ### *"Building software that thinks — not just runs."*
 
-### About Me
+<br/>
 
-- 🎓 BSc Software Engineering Graduate  
-- 👨‍💻 Software Engineer focused on AI Systems, MERN Stack, and Odoo ERP Development  
-- 🚀 Passionate about building secure, scalable, and real-world software solutions  
-- 🧠 Strong interest in intelligent systems, system design, and frontend/backend architecture  
-- 🌍 Portfolio: [teddys-portfolio.onrender.com](https://teddys-portfolio.onrender.com)  
-- 📫 Contact: tedrosmilion19@gmail.com  
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=2800&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=false&repeat=true&width=620&lines=AI+Systems+%7C+MERN+Stack+%7C+Odoo+ERP+Architect;Turning+complexity+into+clean%2C+purposeful+systems;Open+to+ambitious+projects+%26+hard+problems" alt="Cycling identity" />
 
----
+<br/><br/>
 
-### Connect with Me
-<p align="left">
-  <a href="https://twitter.com/teddym72" target="_blank"><img src="https://img.shields.io/twitter/follow/teddym72?logo=twitter&style=for-the-badge" alt="Twitter" /></a>
-  <a href="https://linkedin.com/in/tewodrosmillion" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://stackoverflow.com/users/teddy" target="_blank"><img src="https://img.shields.io/badge/-Stack%20Overflow-F48024?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="Stack Overflow" /></a>
-  <a href="https://facebook.com/teddymillion" target="_blank"><img src="https://img.shields.io/badge/-Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>
-  <a href="https://instagram.com/teddy.m72" target="_blank"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
-  <a href="https://www.youtube.com/c/@teddy-eh7be" target="_blank"><img src="https://img.shields.io/badge/-YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" /></a>
-</p>
+<!-- Social + contact badges -->
+[![Portfolio](https://img.shields.io/badge/◈_Portfolio-Live-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://teddys-portfolio.onrender.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tewodrosmillion)
+[![Email](https://img.shields.io/badge/Email-Reach_Out-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tedrosmilion19@gmail.com)
+[![Twitter](https://img.shields.io/badge/Twitter-@teddym72-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/teddym72)
 
----
+<br/>
 
-### Languages & Tools
-<p align="left">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
-  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express"/>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
-  <img src="https://img.shields.io/badge/Odoo-007B7C?style=for-the-badge&logo=odoo&logoColor=white" alt="Odoo ERP"/>
-  <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white" alt="Photoshop"/>
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/>
-  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android"/>
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>
-</p>
+![Profile Views](https://komarev.com/ghpvc/?username=teddymillion&style=flat-square&color=58a6ff&label=Profile+Views)
+
+</div>
 
 ---
 
-### GitHub Stats
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=teddymillion&theme=dark" alt="GitHub Streak Stats" />
-</p>
+<!-- ============================================================
+     ABOUT — narrative identity, not a list of skills
+     ============================================================ -->
+
+## `$ whoami`
+
+I'm a software engineer working at the intersection of **intelligent systems** and **real-world product delivery**. At **ALTA Computec PLC**, I build full-stack applications, integrate AI into production workflows, and architect enterprise ERP solutions — work that demands both technical depth and systems-level thinking.
+
+My philosophy: code should solve problems elegantly, not accumulate features. Every architectural decision I make starts with a question — *what's the simplest version of this that works correctly at scale?* That clarity separates maintainable systems from ones that collapse under their own complexity.
+
+I graduated with a **BSc in Software Engineering** and have since moved deliberately — from backend systems to full-stack delivery, from standalone apps to enterprise ERP customization, and now into **AI-native software design**. The through-line is a belief that the most impactful software doesn't feel like software at all.
+
+**Where I'm headed:** AI-augmented systems that don't just automate tasks, but actively assist decision-making at organizational scale — infrastructure that makes teams 10× more effective, not just marginally faster.
 
 ---
 
-### 💻 Skill Levels
-<p align="left">
-  <img src="https://img.shields.io/badge/HTML-95%25-brightgreen?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/CSS-90%25-brightgreen?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/JavaScript-85%25-yellow?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/React-80%25-yellow?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Node.js-75%25-orange?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Express-70%25-orange?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/MongoDB-70%25-orange?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Odoo-65%25-red?style=for-the-badge" />
-</p>
+<!-- ============================================================
+     FEATURED WORK — card layout, one table per project
+     Each project: icon + name + tagline + description + stack + impact
+     ============================================================ -->
+
+## `$ ls ./featured-work`
+
+> Three systems. Each designed to solve something real.
+
+<br/>
+
+<!-- ─────────── PROJECT 1: NEXUS ─────────── -->
+<table>
+<tr>
+<td width="64" align="center">
+  <img src="https://img.icons8.com/fluency/48/artificial-intelligence.png" width="42" alt="AI"/>
+</td>
+<td>
+
+### ◈ `NEXUS` — AI-Driven Enterprise Intelligence Layer
+
+> *"What if your ERP could explain itself?"*
+
+A conversational AI layer embedded directly into Odoo ERP — letting operations teams query business data, generate reports, and trigger workflows in plain English. No module navigation. No training overhead. Just answers.
+
+**Stack:**&nbsp;
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Odoo](https://img.shields.io/badge/Odoo_16-007B7C?style=flat-square&logo=odoo&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-000000?style=flat-square&logo=chainlink&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+
+**Why it matters:** ERP systems hold critical business intelligence — locked behind dashboards only power users can navigate. NEXUS closes that gap, turning institutional data into a conversation.
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<!-- ─────────── PROJECT 2: MERIDIAN ─────────── -->
+<table>
+<tr>
+<td width="64" align="center">
+  <img src="https://img.icons8.com/fluency/48/collaboration.png" width="42" alt="Collaboration"/>
+</td>
+<td>
+
+### ◈ `MERIDIAN` — Real-Time Collaboration Infrastructure
+
+> *"Remote teams deserve infrastructure that moves as fast as they do."*
+
+A production-grade workspace platform with live presence awareness, concurrent document editing, task management, and fine-grained role-based access — built as a unified system, not a patchwork of integrations.
+
+**Stack:**&nbsp;
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socket.io&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+
+**Why it matters:** Most collaboration tools are assembled from disconnected services. MERIDIAN treats real-time sync as a first-class architectural requirement — not an afterthought.
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<!-- ─────────── PROJECT 3: SENTINEL ─────────── -->
+<table>
+<tr>
+<td width="64" align="center">
+  <img src="https://img.icons8.com/fluency/48/security-checked.png" width="42" alt="Security"/>
+</td>
+<td>
+
+### ◈ `SENTINEL` — Intelligent Security Monitoring API
+
+> *"Threats don't wait for business hours. Neither should your system."*
+
+A backend security intelligence service that continuously analyzes request patterns, scores anomalies using ML-based behavioral modeling, and surfaces structured threat reports through a clean, documented REST API.
+
+**Stack:**&nbsp;
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
+
+**Why it matters:** Security is traditionally bolted on after launch. SENTINEL is designed to be embedded from day one — a living layer that defines and continuously defends the perimeter of "normal."
+
+</td>
+</tr>
+</table>
+
+---
+
+<!-- ============================================================
+     TECH STACK — grouped by domain, visually differentiated
+     ============================================================ -->
+
+## `$ cat tech-stack.json`
+
+<div align="center">
+
+**— Frontend —**
+
+![JavaScript](https://img.shields.io/badge/JavaScript_ES2024-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React_18-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+
+<br/>
+
+**— Backend —**
+
+![Node.js](https://img.shields.io/badge/Node.js_LTS-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express_4.x-000000?style=for-the-badge&logo=express&logoColor=white)
+![Python](https://img.shields.io/badge/Python_3.11-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+
+<br/>
+
+**— Data —**
+
+![MongoDB](https://img.shields.io/badge/MongoDB_Atlas-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL_16-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL_8.0-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+<br/>
+
+**— ERP & AI —**
+
+![Odoo](https://img.shields.io/badge/Odoo_16%2F17-007B7C?style=for-the-badge&logo=odoo&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-000000?style=for-the-badge&logo=chainlink&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+
+<br/>
+
+**— Infrastructure & Systems —**
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+
+</div>
+
+---
+
+<!-- ============================================================
+     CAREER TRAJECTORY — ASCII timeline, forward-pointing
+     ============================================================ -->
+
+## `$ git log --career --oneline`
+
+```
+◆ 2021  BSc Software Engineering — Graduated
+        │   Foundation in algorithms, system design, and software architecture
+        │
+◆ 2022  First production deployment
+        │   Backend systems, REST API design, relational database modeling
+        │
+◆ 2023  Full-stack delivery + ERP work begins
+        │   End-to-end product ownership; Odoo customization and module development
+        │
+◆ 2024  Software Engineer @ ALTA Computec PLC
+        │   Enterprise-grade ERP at scale; cross-functional delivery
+        │
+◆ 2025  AI integration into production workflows
+        │   LLM-powered tooling, intelligent agents, decision-support systems
+        │
+        ↓
+▶ Next  AI-native product development
+        Building systems that think, adapt, and augment human decision-making
+```
+
+I operate best when the problem isn't fully defined yet — where engineering intuition, product thinking, and design judgment have to work together. The work I'm proudest of isn't the code itself. It's the decisions that made the code simple enough not to need explaining.
+
+---
+
+<!-- ============================================================
+     GITHUB STATS — dark-theme stats cards, no overloading
+     ============================================================ -->
+
+## `$ gh stats --user teddymillion`
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=teddymillion&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&icon_color=58a6ff&hide=issues&count_private=true" alt="GitHub Stats" />
+&nbsp;
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=teddymillion&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&langs_count=6" alt="Top Languages" />
+
+<br/><br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=teddymillion&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" alt="GitHub Streak" />
+
+<br/><br/>
+
+<!-- Contribution activity graph -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=teddymillion&theme=github-compact&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_border=true" alt="Contribution Graph" />
+
+</div>
+
+---
+
+<!-- ============================================================
+     CLOSING — philosophy, CTAs, wave footer
+     ============================================================ -->
+
+<div align="center">
+
+<br/>
+
+*"Clarity of thought is a prerequisite for clarity of code."*
+
+<br/>
+
+**Open to ambitious projects, meaningful collaborations, and problems worth solving.**
+
+<br/>
+
+[![Visit Portfolio](https://img.shields.io/badge/Visit_Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://teddys-portfolio.onrender.com)
+[![Send a Message](https://img.shields.io/badge/Send_a_Message-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tedrosmilion19@gmail.com)
+[![Let's Connect](https://img.shields.io/badge/Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tewodrosmillion)
+
+<br/>
+
+<!-- Animated footer wave mirrors the header -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,3&height=110&section=footer" />
+
+</div>
