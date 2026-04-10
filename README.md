@@ -27,12 +27,21 @@
 
 <br/><br/>
 
-<!-- Social + contact badges -->
-[![Portfolio](https://img.shields.io/badge/◈_Portfolio-Live-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://teddys-portfolio.onrender.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tewodrosmillion)
-[![Email](https://img.shields.io/badge/Email-Reach_Out-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tedrosmilion19@gmail.com)
-[![Twitter](https://img.shields.io/badge/Twitter-@teddym72-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/teddym72)
+<a href="https://teddys-portfolio.onrender.com" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/devicon/devicon-original.svg" width="50" title="Portfolio"/>
+</a>
 
+<a href="https://linkedin.com/in/tewodrosmillion" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="50" title="LinkedIn"/>
+</a>
+
+<a href="mailto:tedrosmilion19@gmail.com">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" width="50" title="Email"/>
+</a>
+
+<a href="https://twitter.com/teddym72" target="_blank">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/6f/Logo_of_Twitter.svg" width="50" title="Twitter"/>
+</a>
 <br/>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=teddymillion&style=flat-square&color=58a6ff&label=Profile+Views)
