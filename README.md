@@ -356,13 +356,24 @@ I operate best when the problem isn't fully defined yet — where engineering in
 
 <br/>
 
-[![Visit Portfolio](https://img.shields.io/badge/Visit_Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://teddys-portfolio.onrender.com)
-[![Send a Message](https://img.shields.io/badge/Send_a_Message-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tedrosmilion19@gmail.com)
-[![Let's Connect](https://img.shields.io/badge/Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tewodrosmillion)
+<p align="center">
+<a href="https://teddys-portfolio.onrender.com" target="_blank">
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/devicon/devicon-original.svg" width="50" title="Portfolio"/>
+</a>
 
+  <a href="https://linkedin.com/in/tewodrosmillion" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="50"/>
+  </a>
+</p>
+
+<p>
+  <a href="https://linkedin.com/in/tewodrosmillion" target="_blank">
+    <img src="https://img.shields.io/badge/Let’s_Connect-4DA3FF?style=for-the-badge&logo=linkedin&logoColor=black"/>
+  </a>
+</p>
 <br/>
 
 <!-- Animated footer wave mirrors the header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,3&height=110&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,3&height=180&section=footer&text=Living%20Life%20%7C%20Travel%20%7C%20Style%20%7C%20Freedom&fontSize=28&fontColor=ffffff&fontAlignY=70&desc=Enjoying%20every%20moment%20beyond%20code&descSize=14&descAlignY=50&animation=fadeIn" />
 
 </div>
