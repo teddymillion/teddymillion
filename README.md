@@ -92,12 +92,13 @@ I graduated with a **BSc in Software Engineering** and have since moved delibera
 A conversational AI layer embedded directly into Odoo ERP — letting operations teams query business data, generate reports, and trigger workflows in plain English. No module navigation. No training overhead. Just answers.
 
 **Stack:**&nbsp;
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Odoo](https://img.shields.io/badge/Odoo_16-007B7C?style=flat-square&logo=odoo&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-000000?style=flat-square&logo=chainlink&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+
+<a href="https://www.python.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50"/></a>&nbsp;
+<a href="https://www.odoo.com/" target="_blank"><img src="https://cdn.simpleicons.org/odoo/714B67" width="50"/></a>&nbsp;
+<a href="https://fastapi.tiangolo.com/" target="_blank"><img src="https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png" width="50"/></a>&nbsp;
+<a href="https://www.postgresql.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="50"/></a>&nbsp;
+<a href="https://react.dev/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50"/></a>
+
 
 **Why it matters:** ERP systems hold critical business intelligence — locked behind dashboards only power users can navigate. NEXUS closes that gap, turning institutional data into a conversation.
 
@@ -122,12 +123,12 @@ A conversational AI layer embedded directly into Odoo ERP — letting operations
 A production-grade workspace platform with live presence awareness, concurrent document editing, task management, and fine-grained role-based access — built as a unified system, not a patchwork of integrations.
 
 **Stack:**&nbsp;
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socket.io&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+<a href="https://nodejs.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="50"/></a>&nbsp;
+<a href="https://expressjs.com/" target="_blank"><img src="https://cdn.simpleicons.org/express/ffffff" width="50"/></a>&nbsp;
+<a href="https://react.dev/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50"/></a>&nbsp;
+<a href="https://www.mongodb.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="50"/></a>&nbsp;
+<a href="https://socket.io/" target="_blank"><img src="https://cdn.simpleicons.org/socketdotio/white" width="50"/></a>&nbsp;
+<a href="https://redis.io/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="50"/></a>
 
 **Why it matters:** Most collaboration tools are assembled from disconnected services. MERIDIAN treats real-time sync as a first-class architectural requirement — not an afterthought.
 
