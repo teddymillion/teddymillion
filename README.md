@@ -327,7 +327,7 @@ I operate best when the problem isn't fully defined yet — where engineering in
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=teddymillion&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" alt="GitHub Streak" />
+<img src="https://streak-stats.demolab.com?user=teddymillion&theme=github-dark" alt="GitHub Streak"/>
 
 <br/><br/>
 
