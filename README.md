@@ -123,6 +123,7 @@ A conversational AI layer embedded directly into Odoo ERP — letting operations
 A production-grade workspace platform with live presence awareness, concurrent document editing, task management, and fine-grained role-based access — built as a unified system, not a patchwork of integrations.
 
 **Stack:**&nbsp;
+
 <a href="https://nodejs.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="50"/></a>&nbsp;
 <a href="https://expressjs.com/" target="_blank"><img src="https://cdn.simpleicons.org/express/ffffff" width="50"/></a>&nbsp;
 <a href="https://react.dev/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50"/></a>&nbsp;
@@ -153,12 +154,30 @@ A production-grade workspace platform with live presence awareness, concurrent d
 A backend security intelligence service that continuously analyzes request patterns, scores anomalies using ML-based behavioral modeling, and surfaces structured threat reports through a clean, documented REST API.
 
 **Stack:**&nbsp;
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
+
+<a href="https://nodejs.org/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="50" title="Node.js"/>
+</a>
+
+<a href="https://www.python.org/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" title="Python"/>
+</a>
+
+<a href="https://scikit-learn.org/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="50" title="scikit-learn"/>
+</a>
+
+<a href="https://www.mongodb.com/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="50" title="MongoDB"/>
+</a>
+
+<a href="https://www.docker.com/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="50" title="Docker"/>
+</a>
+
+<a href="https://nginx.org/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" width="50" title="Nginx"/>
+</a>
 
 **Why it matters:** Security is traditionally bolted on after launch. SENTINEL is designed to be embedded from day one — a living layer that defines and continuously defends the perimeter of "normal."
 
