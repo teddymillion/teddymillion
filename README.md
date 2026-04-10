@@ -295,19 +295,19 @@ A backend security intelligence service that continuously analyzes request patte
 ## `$ git log --career --oneline`
 
 ```
-◆ 2021  BSc Software Engineering — Graduated
-        │   Foundation in algorithms, system design, and software architecture
+◆ 2024  BSc Software Engineering — Graduated
+        │   Foundation in algorithms, system design and software architecture
         │
-◆ 2022  First production deployment
+◆ 2024  First production deployment
         │   Backend systems, REST API design, relational database modeling
         │
-◆ 2023  Full-stack delivery + ERP work begins
+◆ 2025  Full-stack delivery + ERP work begins
         │   End-to-end product ownership; Odoo customization and module development
         │
-◆ 2024  Software Engineer @ ALTA Computec PLC
+◆ 2025  Software Engineer @ ALTA Computec PLC
         │   Enterprise-grade ERP at scale; cross-functional delivery
         │
-◆ 2025  AI integration into production workflows
+◆ 2026  AI integration into production workflows
         │   LLM-powered tooling, intelligent agents, decision-support systems
         │
         ↓
