@@ -1,359 +1,316 @@
-<!-- ============================================================
-     ANIMATED INIT BANNER — typing effect on page load
-     ============================================================ -->
+<!-- ═══════════════════════════════════════════════════════════════
+     HEADER — Typing init + wave banner
+════════════════════════════════════════════════════════════════ -->
+
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=13&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=false&width=700&height=50&lines=Initializing+Tewodros+Million+%2F%2F+Software+Engineer+%F0%9F%9A%80" alt="Init banner" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=13&duration=2500&pause=600&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=false&width=700&height=40&lines=%2F%2F+Initializing+profile+...+Tewodros+Million+loaded+%E2%9C%93" alt="init" />
 </div>
 
-<!-- ============================================================
-     HERO WAVE BANNER — gradient header with name + subtitle
-     ============================================================ -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,3&height=180&section=header&text=Tewodros%20Million&fontSize=46&fontColor=ffffff&fontAlignY=42&desc=Software%20Engineer%20%E2%80%A2%20AI%20Systems%20%E2%80%A2%20Full-Stack%20%E2%80%A2%20ERP&descSize=15&descAlignY=64&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a2740,100:0d1117&height=200&section=header&text=Tewodros%20Million&fontSize=52&fontColor=58A6FF&fontAlignY=44&desc=Software%20Engineer%20%E2%80%A2%20AI%20Systems%20Builder%20%E2%80%A2%20Founder%20in%20Progress&descSize=15&descAlignY=66&animation=fadeIn" />
 </div>
 
-<!-- ============================================================
-     TAGLINE + IDENTITY CYCLING — live typing animation
-     ============================================================ -->
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=2600&pause=1000&color=58A6FF&center=true&vCenter=true&repeat=true&width=640&lines=Building+AI-native+products+for+Africa+and+beyond;MERN+%7C+Python+%7C+Odoo+ERP+%7C+OpenAI+%7C+Next.js;From+Addis+Ababa+%E2%86%92+Building+systems+that+scale" alt="typing" />
+</div>
+
+<br/>
+
 <div align="center">
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=vercel&logoColor=58A6FF&label=&labelColor=0d1117)](https://professional-portfolio-nine-hazel.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://linkedin.com/in/tewodrosmillion)
+[![Email](https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:tedrosmilion19@gmail.com)
+[![Twitter](https://img.shields.io/badge/Twitter-0d1117?style=for-the-badge&logo=x&logoColor=ffffff)](https://twitter.com/teddym72)
+[![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=ffffff)](https://github.com/teddymillion)
+
 <br/>
 
-> ### *"Building software that thinks — not just runs."*
-
-<br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=2800&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=false&repeat=true&width=620&lines=AI+Systems+%7C+MERN+Stack+%7C+Odoo+ERP+Architect;Turning+complexity+into+clean%2C+purposeful+systems;Open+to+ambitious+projects+%26+hard+problems" alt="Cycling identity" />
-
-<br/><br/>
-
-<a href="https://teddys-portfolio.onrender.com" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/devicon/devicon-original.svg" width="50" title="Portfolio"/>
-</a>
-
-<a href="https://linkedin.com/in/tewodrosmillion" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="50" title="LinkedIn"/>
-</a>
-
-<a href="mailto:tedrosmilion19@gmail.com">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" width="50" title="Email"/>
-</a>
-
-<a href="https://twitter.com/teddym72" target="_blank">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/6/6f/Logo_of_Twitter.svg" width="50" title="Twitter"/>
-</a>
-<br/>
-
-![Profile Views](https://komarev.com/ghpvc/?username=teddymillion&style=flat-square&color=58a6ff&label=Profile+Views)
+![Profile Views](https://komarev.com/ghpvc/?username=teddymillion&style=flat-square&color=58a6ff&label=Profile+Views)&nbsp;
+![Status](https://img.shields.io/badge/Status-Open%20to%20Collaborate-58A6FF?style=flat-square)&nbsp;
+![Location](https://img.shields.io/badge/📍-Addis%20Ababa%2C%20Ethiopia-1a2740?style=flat-square)
 
 </div>
 
 ---
 
-<!-- ============================================================
-     ABOUT — narrative identity, not a list of skills
-     ============================================================ -->
+<!-- ═══════════════════════════════════════════════════════════════
+     IDENTITY
+════════════════════════════════════════════════════════════════ -->
 
 ## `$ whoami`
 
-I'm a software engineer working at the intersection of **intelligent systems** and **real-world product delivery**. At **ALTA Computec PLC**, I build full-stack applications, integrate AI into production workflows, and architect enterprise ERP solutions — work that demands both technical depth and systems-level thinking.
+```yaml
+name        : Tewodros Million
+role        : Software Engineer · AI Systems Builder · Founder in Progress
+company     : Alta Computec PLC (AI Systems Engineer)
+education   : BSc Software Engineering — Haramaya University (CGPA 3.36)
+location    : Addis Ababa, Ethiopia
+focus       : AI-native products · ERP automation · Africa-scale infrastructure
+philosophy  : "Build systems that think — not just run."
+open_to     : Ambitious projects · Hard problems · Meaningful collaborations
+```
 
-My philosophy: code should solve problems elegantly, not accumulate features. Every architectural decision I make starts with a question — *what's the simplest version of this that works correctly at scale?* That clarity separates maintainable systems from ones that collapse under their own complexity.
+I engineer software at the intersection of **artificial intelligence** and **real-world business problems**. At **Alta Computec PLC**, I ship AI-powered backend systems, automate enterprise ERP workflows, and design intelligent products that reduce manual overhead by 60%+.
 
-I graduated with a **BSc in Software Engineering** and have since moved deliberately — from backend systems to full-stack delivery, from standalone apps to enterprise ERP customization, and now into **AI-native software design**. The through-line is a belief that the most impactful software doesn't feel like software at all.
+My approach: code should solve problems elegantly, not accumulate features. I think in systems — not pages, not endpoints — systems that scale from 10 users to 10 million, and from Addis Ababa to the world.
 
-**Where I'm headed:** AI-augmented systems that don't just automate tasks, but actively assist decision-making at organizational scale — infrastructure that makes teams 10× more effective, not just marginally faster.
+**Where I'm headed:** AI-native infrastructure for Africa's next decade — transport digitization, intelligent ERP for SMEs, and developer tools that empower the next generation of African engineers to build and ship globally.
 
 ---
 
-<!-- ============================================================
-     FEATURED WORK — card layout, one table per project
-     Each project: icon + name + tagline + description + stack + impact
-     ============================================================ -->
+<!-- ═══════════════════════════════════════════════════════════════
+     LIVE PRODUCTS
+════════════════════════════════════════════════════════════════ -->
 
-## `$ ls ./featured-work`
+## `$ ls ./live-products`
 
-> Three systems. Each designed to solve something real.
+> These aren't side projects. They're deployed, live, and used.
 
 <br/>
 
-<!-- ─────────── PROJECT 1: NEXUS ─────────── -->
 <table>
 <tr>
-<td width="64" align="center">
-  <img src="https://img.icons8.com/fluency/48/artificial-intelligence.png" width="42" alt="AI"/>
+<td width="72" align="center">
+  <img src="https://img.icons8.com/fluency/48/wallet.png" width="44"/>
 </td>
 <td>
 
-### ◈ `NEXUS` — AI-Driven Enterprise Intelligence Layer
+### 💳 [Simuni Wallet — AI Money Management](https://ai-powered-money-management-system.vercel.app)
+> *AI-powered personal finance built specifically for the Ethiopian market*
 
-> *"What if your ERP could explain itself?"*
+Millions of Ethiopians have no intelligent tool to track, manage, or understand their finances. Existing apps are built for Western markets — wrong currency, wrong context, wrong assumptions. Simuni changes that.
 
-A conversational AI layer embedded directly into Odoo ERP — letting operations teams query business data, generate reports, and trigger workflows in plain English. No module navigation. No training overhead. Just answers.
+Built a full-featured AI-powered money management system with smart expense tracking, budget intelligence, and AI-driven financial insights — **tailored for Ethiopian users from the ground up.**
 
-**Stack:**&nbsp;
-
-<a href="https://www.python.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50"/></a>&nbsp;
-<a href="https://www.odoo.com/" target="_blank"><img src="https://cdn.simpleicons.org/odoo/714B67" width="50"/></a>&nbsp;
-<a href="https://fastapi.tiangolo.com/" target="_blank"><img src="https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png" width="50"/></a>&nbsp;
-<a href="https://www.postgresql.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="50"/></a>&nbsp;
-<a href="https://react.dev/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50"/></a>
-
-
-**Why it matters:** ERP systems hold critical business intelligence — locked behind dashboards only power users can navigate. NEXUS closes that gap, turning institutional data into a conversation.
+`Next.js` `React` `TypeScript` `Tailwind CSS` `AI Integration`
 
 </td>
 </tr>
 </table>
 
-<br/>
-
-<!-- ─────────── PROJECT 2: MERIDIAN ─────────── -->
 <table>
 <tr>
-<td width="64" align="center">
-  <img src="https://img.icons8.com/fluency/48/collaboration.png" width="42" alt="Collaboration"/>
+<td width="72" align="center">
+  <img src="https://img.icons8.com/fluency/48/label.png" width="44"/>
 </td>
 <td>
 
-### ◈ `MERIDIAN` — Real-Time Collaboration Infrastructure
+### 🏷️ [AI Text & Image Tagging System](https://ai-text-image-tagger.vercel.app)
+> *Automated content intelligence — 95% faster than manual tagging*
 
-> *"Remote teams deserve infrastructure that moves as fast as they do."*
+Content teams waste hours manually tagging digital assets. This AI-powered web app automatically generates relevant, context-aware tags from any text or image using **Google Gemini** — reducing tagging time from hours to seconds.
 
-A production-grade workspace platform with live presence awareness, concurrent document editing, task management, and fine-grained role-based access — built as a unified system, not a patchwork of integrations.
-
-**Stack:**&nbsp;
-
-<a href="https://nodejs.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="50"/></a>&nbsp;
-<a href="https://expressjs.com/" target="_blank"><img src="https://cdn.simpleicons.org/express/ffffff" width="50"/></a>&nbsp;
-<a href="https://react.dev/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50"/></a>&nbsp;
-<a href="https://www.mongodb.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="50"/></a>&nbsp;
-<a href="https://socket.io/" target="_blank"><img src="https://cdn.simpleicons.org/socketdotio/white" width="50"/></a>&nbsp;
-<a href="https://redis.io/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="50"/></a>
-
-**Why it matters:** Most collaboration tools are assembled from disconnected services. MERIDIAN treats real-time sync as a first-class architectural requirement — not an afterthought.
+`Next.js` `TypeScript` `Google Gemini API` `Tailwind CSS`
 
 </td>
 </tr>
 </table>
 
-<br/>
-
-<!-- ─────────── PROJECT 3: SENTINEL ─────────── -->
 <table>
 <tr>
-<td width="64" align="center">
-  <img src="https://img.icons8.com/fluency/48/security-checked.png" width="42" alt="Security"/>
+<td width="72" align="center">
+  <img src="https://img.icons8.com/fluency/48/resume.png" width="44"/>
 </td>
 <td>
 
-### ◈ `SENTINEL` — Intelligent Security Monitoring API
+### 📄 [Resume Analyzer — AI Feedback Engine](https://ai-resume-analyzer-bice-two.vercel.app/landing)
+> *Structured, actionable resume analysis in under 10 seconds*
 
-> *"Threats don't wait for business hours. Neither should your system."*
+Job seekers get generic, useless feedback. This AI-powered analyzer uses advanced prompt engineering to extract structured insights and generate specific, actionable improvement feedback for any resume — instantly.
+
+`JavaScript` `Node.js` `OpenAI API` `REST APIs`
+
+</td>
+</tr>
+</table>
+
+---
+
+<!-- ═══════════════════════════════════════════════════════════════
+     FLAGSHIP CONCEPTS / ARCHITECTURE PROJECTS
+════════════════════════════════════════════════════════════════ -->
+
+## `$ ls ./architecture-work`
+
+> Enterprise systems and intelligent infrastructure — designed, not assembled.
+
+<br/>
+
+<details>
+<summary><strong>◈ NEXUS — AI-Driven Enterprise Intelligence Layer</strong> &nbsp;•&nbsp; <em>"What if your ERP could explain itself?"</em></summary>
+
+<br/>
+
+A conversational AI layer embedded directly into **Odoo ERP** — letting operations teams query business data, generate reports, and trigger workflows in plain English. No module navigation. No training overhead. Just answers.
+
+ERP systems hold critical business intelligence — locked behind dashboards only power users can navigate. NEXUS closes that gap, turning institutional data into a natural-language conversation.
+
+**Stack:** `Python` `Odoo` `FastAPI` `PostgreSQL` `React` `LLM Integration`
+
+</details>
+
+<details>
+<summary><strong>◈ MERIDIAN — Real-Time Collaboration Infrastructure</strong> &nbsp;•&nbsp; <em>"Infrastructure that moves as fast as your team."</em></summary>
+
+<br/>
+
+A production-grade workspace platform with live presence awareness, concurrent document editing, task management, and fine-grained role-based access — built as a **unified system**, not a patchwork of integrations.
+
+Most collaboration tools are assembled from disconnected services. MERIDIAN treats real-time sync as a first-class architectural requirement — not an afterthought.
+
+**Stack:** `Node.js` `Express` `React` `MongoDB` `Socket.io` `Redis`
+
+</details>
+
+<details>
+<summary><strong>◈ SENTINEL — Intelligent Security Monitoring API</strong> &nbsp;•&nbsp; <em>"Threats don't wait for business hours."</em></summary>
+
+<br/>
 
 A backend security intelligence service that continuously analyzes request patterns, scores anomalies using ML-based behavioral modeling, and surfaces structured threat reports through a clean, documented REST API.
 
-**Stack:**&nbsp;
+Security traditionally gets bolted on after launch. SENTINEL is designed to be embedded from day one — a living layer that defines and continuously defends the perimeter of "normal."
 
-<a href="https://nodejs.org/" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="50" title="Node.js"/>
-</a>
+**Stack:** `Node.js` `Python` `scikit-learn` `MongoDB` `Docker` `Nginx`
 
-<a href="https://www.python.org/" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" title="Python"/>
-</a>
-
-<a href="https://scikit-learn.org/" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="50" title="scikit-learn"/>
-</a>
-
-<a href="https://www.mongodb.com/" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="50" title="MongoDB"/>
-</a>
-
-<a href="https://www.docker.com/" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="50" title="Docker"/>
-</a>
-
-<a href="https://nginx.org/" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" width="50" title="Nginx"/>
-</a>
-
-**Why it matters:** Security is traditionally bolted on after launch. SENTINEL is designed to be embedded from day one — a living layer that defines and continuously defends the perimeter of "normal."
-
-</td>
-</tr>
-</table>
+</details>
 
 ---
 
-<!-- ============================================================
-     TECH STACK — grouped by domain, visually differentiated
-     ============================================================ -->
+<!-- ═══════════════════════════════════════════════════════════════
+     TECH STACK
+════════════════════════════════════════════════════════════════ -->
 
-## `$ cat tech-stack.json`
+## `$ cat stack.json`
 
 <div align="center">
-<h3>Data Science & AI Stack</h3>
 
-<a href="https://www.mathworks.com/products/matlab.html" target="_blank">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" width="50"/>
-</a>
+**— AI & Intelligence —**
+
+![Python](https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=3776AB)
+![OpenAI](https://img.shields.io/badge/OpenAI-0d1117?style=for-the-badge&logo=openai&logoColor=ffffff)
+![Scikit-learn](https://img.shields.io/badge/scikit--learn-0d1117?style=for-the-badge&logo=scikitlearn&logoColor=F7931E)
+![Gemini](https://img.shields.io/badge/Google%20Gemini-0d1117?style=for-the-badge&logo=google&logoColor=4285F4)
+![Pandas](https://img.shields.io/badge/Pandas-0d1117?style=for-the-badge&logo=pandas&logoColor=150458)
+![MATLAB](https://img.shields.io/badge/MATLAB-0d1117?style=for-the-badge&logo=mathworks&logoColor=0076A8)
 
 **— Frontend —**
 
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50"/>
-</a>
-
-<a href="https://react.dev/" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50"/>
-</a>
-
-<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50"/>
-</a>
-
-<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50"/>
-</a>
-
-<a href="https://www.figma.com/" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="50"/>
-</a>
-<br/>
+![Next.js](https://img.shields.io/badge/Next.js-0d1117?style=for-the-badge&logo=nextdotjs&logoColor=ffffff)
+![React](https://img.shields.io/badge/React-0d1117?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-0d1117?style=for-the-badge&logo=typescript&logoColor=3178C6)
+![JavaScript](https://img.shields.io/badge/JavaScript-0d1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![Tailwind](https://img.shields.io/badge/Tailwind-0d1117?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4)
+![Figma](https://img.shields.io/badge/Figma-0d1117?style=for-the-badge&logo=figma&logoColor=F24E1E)
 
 **— Backend —**
 
-<a href="https://nodejs.org/" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="50"/>
-</a>
+![Node.js](https://img.shields.io/badge/Node.js-0d1117?style=for-the-badge&logo=nodedotjs&logoColor=339933)
+![Express](https://img.shields.io/badge/Express-0d1117?style=for-the-badge&logo=express&logoColor=ffffff)
+![FastAPI](https://img.shields.io/badge/FastAPI-0d1117?style=for-the-badge&logo=fastapi&logoColor=009688)
 
-<a href="https://expressjs.com/" target="_blank">
-  <img src="https://cdn.simpleicons.org/express/ffffff" width="50"/>
-</a>&nbsp;
+**— Data & ERP —**
 
-<a href="https://www.python.org/" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50"/>
-</a>
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0d1117?style=for-the-badge&logo=postgresql&logoColor=4169E1)
+![MongoDB](https://img.shields.io/badge/MongoDB-0d1117?style=for-the-badge&logo=mongodb&logoColor=47A248)
+![Supabase](https://img.shields.io/badge/Supabase-0d1117?style=for-the-badge&logo=supabase&logoColor=3ECF8E)
+![Odoo](https://img.shields.io/badge/Odoo%20ERP-0d1117?style=for-the-badge&logo=odoo&logoColor=714B67)
 
-<a href="https://fastapi.tiangolo.com/" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="50"/>
-</a>
+**— Infrastructure —**
 
-<br/>
-
-**— Data —**
-
-<a href="https://www.mongodb.com/" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="50"/>
-</a>
-<a href="https://www.postgresql.org/" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="50"/>
-</a>
-<a href="https://www.mysql.com/" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50"/>
-</a>
-<br/>
-
-**— ERP & AI —**
-
-<a href="https://www.odoo.com/" target="_blank">
-  <img src="https://cdn.simpleicons.org/odoo/714B67" width="50"/>
-</a>&nbsp;
-<a href="https://scikit-learn.org/" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="50" title="scikit-learn"/>
-</a>
-
-<br/>
-
-**— Infrastructure & Systems —**
-
-<a href="https://www.docker.com/" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="50"/>
-</a>
-
-<a href="https://nginx.org/" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" width="50"/>
-</a>
-
-<a href="https://git-scm.com/" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50"/>
-</a>
-
-<a href="https://isocpp.org/" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="50"/>
-</a>
-
-<a href="https://developer.android.com/" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" width="50"/>
-</a>
+![Docker](https://img.shields.io/badge/Docker-0d1117?style=for-the-badge&logo=docker&logoColor=2496ED)
+![Nginx](https://img.shields.io/badge/Nginx-0d1117?style=for-the-badge&logo=nginx&logoColor=009639)
+![OCI](https://img.shields.io/badge/Oracle%20Cloud-0d1117?style=for-the-badge&logo=oracle&logoColor=F80000)
+![Git](https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=git&logoColor=F05032)
+![Postman](https://img.shields.io/badge/Postman-0d1117?style=for-the-badge&logo=postman&logoColor=FF6C37)
 
 </div>
 
 ---
 
-<!-- ============================================================
-     CAREER TRAJECTORY — ASCII timeline, forward-pointing
-     ============================================================ -->
+<!-- ═══════════════════════════════════════════════════════════════
+     CAREER TIMELINE
+════════════════════════════════════════════════════════════════ -->
 
 ## `$ git log --career --oneline`
 
 ```
-◆ 2024  BSc Software Engineering — Graduated
-        │   Foundation in algorithms, system design and software architecture
+◆ 2021  Haramaya University — Software Engineering begins
+        │   Learning logic, structure, and how systems actually work
         │
-◆ 2024  First production deployment
-        │   Backend systems, REST API design, relational database modeling
+◆ 2023  Full-stack transition: React · Node.js · MongoDB
+        │   Built TaskFlow — thinking in systems, not pages
         │
-◆ 2025  Full-stack delivery + ERP work begins
-        │   End-to-end product ownership; Odoo customization and module development
+◆ 2024  Internship @ Ministry of Innovation & Technology
+        │   Government-scale constraints. Real-world impact requirements.
+        │   "Constraints became design inputs."
         │
-◆ 2025  Software Engineer @ ALTA Computec PLC
-        │   Enterprise-grade ERP at scale; cross-functional delivery
+◆ 2025  BSc Software Engineering — Graduated (CGPA 3.36)
+        │   Joined Alta Computec PLC as AI Systems Engineer
+        │   Shipped: Simuni Wallet · AI Tagger · Resume Analyzer
+        │   Automation pipelines reducing manual overhead by 60%+
         │
-◆ 2026  AI integration into production workflows
-        │   LLM-powered tooling, intelligent agents, decision-support systems
+◆ 2026  Transport digitization · AI-native SaaS · Stealth project
+        │   Transitioning: Engineer → System Builder → Founder
         │
         ↓
-▶ Next  AI-native product development
-        Building systems that think, adapt, and augment human decision-making
+▶ Next  Africa-scale AI infrastructure
+        Building products that make the continent's next decade possible
 ```
-
-I operate best when the problem isn't fully defined yet — where engineering intuition, product thinking, and design judgment have to work together. The work I'm proudest of isn't the code itself. It's the decisions that made the code simple enough not to need explaining.
 
 ---
 
-<!-- ============================================================
-     GITHUB STATS — dark-theme stats cards, no overloading
-     ============================================================ -->
+<!-- ═══════════════════════════════════════════════════════════════
+     GITHUB STATS
+════════════════════════════════════════════════════════════════ -->
 
 ## `$ gh stats --user teddymillion`
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=teddymillion&theme=github-dark&cache_seconds=60" alt="GitHub Streak"/>
+<img src="https://streak-stats.demolab.com?user=teddymillion&theme=github-dark-blue&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&cache_seconds=60" alt="GitHub Streak" />
 
 <br/><br/>
 
-<!-- Contribution activity graph -->
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=teddymillion&theme=github-dark" />
-</p>
+<img src="https://github-readme-stats.vercel.app/api?username=teddymillion&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" height="165"/>
+&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=teddymillion&layout=compact&theme=github_dark&hide_border=true&langs_count=6" height="165"/>
+
 <br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=teddymillion&theme=github-dark&hide_border=true&area=true" />
+
 </div>
 
 ---
 
-<!-- ============================================================
-     CLOSING — philosophy, CTAs, wave footer
-     ============================================================ -->
+<!-- ═══════════════════════════════════════════════════════════════
+     CURRENT FOCUS
+════════════════════════════════════════════════════════════════ -->
+
+## `$ ps aux --current-work`
+
+```json
+{
+  "building"    : "Transport digitization system for Ethiopia",
+  "experimenting": "Stealth — something new taking shape",
+  "learning"    : "MATLAB + advanced AI systems architecture",
+  "next"        : "AI-native ERP for African SMEs"
+}
+```
+
+---
+
+<!-- ═══════════════════════════════════════════════════════════════
+     CTA + FOOTER
+════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
 <br/>
 
-*"Clarity of thought is a prerequisite for clarity of code."*
+> *"The question is no longer 'can I build this?' — it's 'should this exist, and who is it for?'"*
 
 <br/>
 
@@ -361,24 +318,14 @@ I operate best when the problem isn't fully defined yet — where engineering in
 
 <br/>
 
-<p align="center">
-<a href="https://teddys-portfolio.onrender.com" target="_blank">
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/devicon/devicon-original.svg" width="50" title="Portfolio"/>
-</a>
+[![View Portfolio](https://img.shields.io/badge/View_Full_Portfolio-58A6FF?style=for-the-badge&logoColor=black)](https://professional-portfolio-nine-hazel.vercel.app)
+&nbsp;
+[![Let's Connect](https://img.shields.io/badge/Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tewodrosmillion)
+&nbsp;
+[![Send Email](https://img.shields.io/badge/Send_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tedrosmilion19@gmail.com)
 
-  <a href="https://linkedin.com/in/tewodrosmillion" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="50"/>
-  </a>
-</p>
+<br/><br/>
 
-<p>
-  <a href="https://linkedin.com/in/tewodrosmillion" target="_blank">
-    <img src="https://img.shields.io/badge/Let’s_Connect-4DA3FF?style=for-the-badge&logo=linkedin&logoColor=black"/>
-  </a>
-</p>
-<br/>
-
-<!-- Animated footer wave mirrors the header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,3&height=180&section=footer&text=Living%20Life%20%7C%20Travel%20%7C%20Style%20%7C%20Freedom&fontSize=28&fontColor=ffffff&fontAlignY=70&desc=Enjoying%20every%20moment%20beyond%20code&descSize=14&descAlignY=50&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a2740,100:0d1117&height=140&section=footer&text=Building%20Africa%27s%20Digital%20Future&fontSize=22&fontColor=58A6FF&fontAlignY=65&animation=fadeIn" />
 
 </div>
