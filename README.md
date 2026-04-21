@@ -194,6 +194,11 @@ A backend security intelligence service that continuously analyzes request patte
 ## `$ cat tech-stack.json`
 
 <div align="center">
+<h3>Data Science & AI Stack</h3>
+
+<a href="https://www.mathworks.com/products/matlab.html" target="_blank">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" width="50"/>
+</a>
 
 **— Frontend —**
 
