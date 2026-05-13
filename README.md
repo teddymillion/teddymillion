@@ -273,9 +273,17 @@ Security traditionally gets bolted on after launch. SENTINEL is designed to be e
 
 <br/><br/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=teddymillion&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" height="165"/>
-&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=teddymillion&layout=compact&theme=github_dark&hide_border=true&langs_count=6" height="165"/>
+<p align="center">
+  <img 
+    src="https://github-readme-stats-sigma-five.vercel.app/api?username=teddymillion&show_icons=true&theme=tokyonight&hide_border=true"
+    height="170"
+  />
+
+  <img 
+    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=teddymillion&layout=compact&theme=tokyonight&hide_border=true"
+    height="170"
+  />
+</p>
 
 <br/><br/>
 
